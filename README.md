@@ -16,4 +16,4 @@
 |    IIB2019006  |   Amanjeet Kumar | Amanjeetk11 |
 |    IIT2019202  |   JYOTI VERMA |Jyo123-verma |
 |    IIT2019236  |  Noonsavath Sravana Samyukta | samyukta9500 |
-|    IIT2019200  |   Raj chandra  |Error404r |
+|    IIT2019200  |   Raj chandra  |...... |
