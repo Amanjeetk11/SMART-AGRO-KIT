@@ -70,9 +70,9 @@
 
 <!-- How to use -->
 ## How to use
-1.Go through webpage link\\
-2.tap on choose file\\
-3.upload or click picture of crops\\
+1.Go through webpage link\
+2.tap on choose file\
+3.upload or click picture of crops\
 4.click on predict
 
 now system will auto show status of crops ,if disease detected it will shoe name and their cure
