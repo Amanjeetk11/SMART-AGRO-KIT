@@ -13,7 +13,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#How to use">How to use</a></li>
+    <li><a href="#How-to-use">How to use</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -70,9 +70,9 @@
 
 <!-- How to use -->
 ## How to use
-1.Go through webpage link
-2.tap on choose file
-3.upload or click picture of crops
+1.Go through webpage link\\
+2.tap on choose file\\
+3.upload or click picture of crops\\
 4.click on predict
 
 now system will auto show status of crops ,if disease detected it will shoe name and their cure
@@ -125,26 +125,6 @@ The ambient temperature of the server room should be maintained between 18-27°C
 * [Connect to a MongoDB Database Using Node.js](https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 
 
