@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css"
+        integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+
+    <title>Healthy Plant Leaf</title>
+
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        .border img {
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+    </style>
+ <style>
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .border img {
+        border-radius: 15px;
+        border: 2px solid black;
+    }
+</style>
+
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.Content-h5 {
+
+padding: 15px;
+background-color: rgb(17, 17, 17);
+color: white;
+border-radius: 15px;
+margin-bottom: 25px;
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+</style>
+
+
+</head>
+
+<body>
+
+    <div>
+       
+        <h1 style="text-align:center; background-color:powderblue;">IVP PROJECT | Smart Agro Kit</h1>
+        <br><br>       
+        
+        <h3 style="text-align:center;color:green;"><img src="https://nbss.co.in/img/33.gif">{{pred_output}}<img src="https://nbss.co.in/img/33.gif"></h3>
+        <br><br>
+
+        <br><br>
+    </div>
+
+
+
+
+
+    <div class="container my-2">
+        <div class="row mb-5">
+
+            <div class="col-sm" style="margin-bottom: 23px;">
+                <span class="border border-primary">
+                    <img src="{{ user_image }}" alt="User Image" class="img-thumbnail">
+                    
+
+                </span>
+            </div>
+
+            <div class="col-sm">
+
+                <div>
+                    <h1 style="padding: 15px; background-color: rgb(153, 156, 150); color: white;"
+                        class="text-center mb-5 content-h1 rounded">
+                        {{pred_output}} </h1>
+                </div>
+                <div class="details">
+
+                    <h6>
+
+
+                        <b>There is no disease on the  plant.</b></br>
+                        Although the chemical fertilizer has fallen on the leaves of the tree, the leaves are burnt, but
+                        there is no need to worry.</br></br>
+                        <b> पेड़ पर कोई बीमारी नहीं है। </b></br>
+                        रासायनिक उर्वरक पेड़ की पत्तियों पर गिर गया है, पत्तियां जल गई हैं, लेकिन चिंता करने की कोई
+                        जरूरत नहीं है।</br></br>
+                        <b>कपाशीच्या झाडावर कोणताही रोग नाही आहे. </b></br>
+                        रासायनिक खत झाडाच्या पानावर पडल्यामुळे पान जळल आहे, तरी काही चिंता करायची गरज नाही. <b>मजूरांना
+                            कंबर बागवून खत टाकायला सांगा. </b></br></br>
+                      
+
+                    </h6>
+                </div>
+
+                <button onclick="document.location='http://127.0.0.1:5000/'" class="button button2">Test For Another Plant</button>
+
+
+            </div>
+        </div>
+
+
+    </div>
+
+    <section>
+        <div class="container Content-h5">
+
+            <h5 style="font-size: 1.5rem;" class="text-center my-3 contents">
+                Developed By : Group 14</h5>
+
+        </div>
+    </section>
+
+</body>
+
+</html>
