@@ -13,7 +13,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#How to use">How to use</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -65,15 +65,18 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Nodejs</li>
-  <li>MongoDB</li>
+  <li>python</li>
 </ul>
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- How to use -->
+## How to use
+1.Go through webpage link
+2.tap on choose file
+3.upload or click picture of crops
+4.click on predict
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+now system will auto show status of crops ,if disease detected it will shoe name and their cure
+
 
 ### Prerequisites
 
