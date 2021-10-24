@@ -1,7 +1,7 @@
 ## IVP PROJECT | SMART AGRO KIT
-*Group No-*"14"
+Group No- 14
 
-*Faculty Name- ### Dr. Shiv Ram Dubey
+#### Faculty Name-  Dr. Shiv Ram Dubey
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -125,12 +125,34 @@ This is an example of how to list things you need to use the software and how to
   $ python -m pip install tensorflow
   ```
   
- 
-  
+ ### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Amanjeetk11/ivp.git
+   ```
+2. Change directory to main file
+   ```sh
+   cd model_codes
+   ```
+3. Install requirements.txt
+   ```sh
+   pip install requirements.txt 
+   ```
+4. Set the FLASK_APP system variable
+   ```sh
+   $ export FLASK_APP=app.py
+   ```
+5. Run Flask
+   ```sh
+   $ flask run
+   ```
+Visit http://127.0.0.1:5000 to see your app in action 
 
 <!-- How to use -->
 ## How to use
-1.Go through webpage link\
+1.Go through webpage link\http://127.0.0.1:5000
 2.tap on choose file\
 3.upload or click picture of crops\
 4.click on predict
