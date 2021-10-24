@@ -143,21 +143,20 @@ Visit http://127.0.0.1:5000 to see your app in action
 
 Now system will auto show status of crops ,if disease detected it will shoe name and their cure.
 
-<ul>
-   <li> ### When no disease detected on plant</li> 
+### When no disease detected on plant
   
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png"  height="460" /> <br>
   
-  <li> ### When no disease detected on plant leafs</li>
+  ### When no disease detected on plant leafs
 <br>  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png"  height="460" /> <br>
   
-  <li>  ### When disease detected on plant</li>
+   ### When disease detected on plant
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_palnt.png"  height="460" /> <br>
   
-  <li>  ### When disease detected on plant leafs</li>
+    ### When disease detected on plant leafs
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png"  height="460" /> <br>
    
-</ul>
+
 
 <!-- Acknowledgements -->
 ## Acknowledgements
