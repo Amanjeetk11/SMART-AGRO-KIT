@@ -19,7 +19,7 @@ Group No- 14
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#How-to-use">How to use</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -145,7 +145,8 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 
 <ul>
    <li>When no disease detected on plant</li>
-  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png">
+  
+  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png" width="200" height="400" />
   
   <li>When no disease detected on plant leafs</li>
   <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png">
