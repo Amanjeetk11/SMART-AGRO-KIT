@@ -134,11 +134,29 @@ Visit http://127.0.0.1:5000 to see your app in action
 
 <!-- How to use -->
 ## How to use
-1.Go through webpage link\http://127.0.0.1:5000
-2.tap on choose file\
-3.upload or click picture of crops\
-4.click on predict
+1.Go through webpage link http://127.0.0.1:5000 
+<img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/landing_page.png">
 
-now system will auto show status of crops ,if disease detected it will shoe name and their cure
+2. Tap on choose file.
+3. Upload or click picture of crops.
+4. Click on predict
+
+Now system will auto show status of crops ,if disease detected it will shoe name and their cure.
+
+<ul>
+   <li>When no disease detected on plant</li>
+  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png">
+  
+  <li>When no disease detected on plant leafs</li>
+  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png">
+  
+  <li>When disease detected on plant</li>
+  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_palnt.png">
+  
+  <li>When disease detected on plant leafs</li>
+  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png">
+   
+</ul>
+
 
 
