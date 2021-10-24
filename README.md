@@ -1,7 +1,5 @@
-**ivp
+## IVP PROJECT | SMART AGRO KIT
 *Group No-*"14"
-## Project name
-### Smart Agro Kit
 
 *Faculty Name-*"Dr. Shiv Ram Dubey"
 
@@ -13,9 +11,19 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#How-to-use">How to use</a></li>
-   
+    <li><a href="#built-with">Built With</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
 </details>
+
 
 ## About The Project
 
@@ -51,6 +59,7 @@
 |    IIT2019236  |  Noonsavath Sravana Samyukta | samyukta9500 |
 |    IIT2019200  |   Raj chandra  |RAJCHANDRA |
 
+
 ## Built With
 <ul>
    <li>Flask</li>
@@ -61,6 +70,87 @@
   <li>Javascript</li>
   <li>python</li>
 </ul>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* Create the Virtual Environment
+  ```sh
+  $ python3 -m venv venv
+  ```
+  
+  * Activate the virtual environment
+  ```sh
+ $ source venv/bin/activate
+  ```
+  
+  * Install Falsk
+  ```sh
+ $ pip3 install Flask
+  ```
+  
+  
+  * Install NumPy
+  ```sh
+  $ python -m pip install numpy
+  ```
+  
+  * Install Pandas
+  ```sh
+  $ python -m pip install pandas
+  ```
+  
+  * Install SciPy
+  ```sh
+  $ python -m pip install scipy
+  ```
+  
+* Install Pillow
+  ```sh
+  $ python -m pip install pillow
+  ```
+  
+  * Install Matplotlib
+  ```sh
+  $ python -m pip install matplotlib
+  ```
+  
+* Install OpenCV
+  ```sh
+  $ python -m pip install opencv-python
+  ```
+  
+  * Install Keras
+  ```sh
+  $ python -m pip install keras
+  ```
+  
+* Install TensorFlow
+  ```sh
+  $ python -m pip install tensorflow
+  ```
+  
+  * Install Matplotlib
+  ```sh
+  $ python -m pip install matplotlib
+  ```
+  
+* Install OpenCV
+  ```sh
+  $ python -m pip install opencv-python
+  ```
+  
+  * Install Keras
+  ```sh
+  $ python -m pip install keras
+  ```
 
 <!-- How to use -->
 ## How to use
