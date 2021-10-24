@@ -27,8 +27,7 @@
 
 ## About The Project
 
-**In modern era many of farmers not able to predict right information due to lack of skills,time This is the reason for many crops failure. Unfortunately the farmers award with huge losses and in some case it grow to be committing suicide.In order to make their task a bit easier we have worked on a project and  developed a reliable and easy to use system for use by farmers. So for detection of diseases on crops we have proposed a smart and efficient technique by using image processing and IoT techniques, farmers need to click pictures of their crops and upload that to our webpage then the system will analyse crops and alerts with disease names as well as how to prevent them.
-**
+** In modern era many of farmers not able to predict right information due to lack of skills,time This is the reason for many crops failure. Unfortunately the farmers award with huge losses and in some case it grow to be committing suicide.In order to make their task a bit easier we have worked on a project and  developed a reliable and easy to use system for use by farmers. So for detection of diseases on crops we have proposed a smart and efficient technique by using image processing and IoT techniques, farmers need to click pictures of their crops and upload that to our webpage then the system will analyse crops and alerts with disease names as well as how to prevent them. **
 
 <table>
   <tr>
@@ -81,21 +80,20 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Create the Virtual Environment
+  * Create the Virtual Environment
   ```sh
   $ python3 -m venv venv
   ```
   
   * Activate the virtual environment
   ```sh
- $ source venv/bin/activate
+  $ source venv/bin/activate
   ```
   
   * Install Falsk
   ```sh
- $ pip3 install Flask
+  $ pip3 install Flask
   ```
-  
   
   * Install NumPy
   ```sh
@@ -107,22 +105,12 @@ This is an example of how to list things you need to use the software and how to
   $ python -m pip install pandas
   ```
   
-  * Install SciPy
-  ```sh
-  $ python -m pip install scipy
-  ```
-  
-* Install Pillow
-  ```sh
-  $ python -m pip install pillow
-  ```
-  
   * Install Matplotlib
   ```sh
   $ python -m pip install matplotlib
   ```
   
-* Install OpenCV
+  * Install OpenCV
   ```sh
   $ python -m pip install opencv-python
   ```
@@ -132,25 +120,13 @@ This is an example of how to list things you need to use the software and how to
   $ python -m pip install keras
   ```
   
-* Install TensorFlow
+  * Install TensorFlow
   ```sh
   $ python -m pip install tensorflow
   ```
   
-  * Install Matplotlib
-  ```sh
-  $ python -m pip install matplotlib
-  ```
+ 
   
-* Install OpenCV
-  ```sh
-  $ python -m pip install opencv-python
-  ```
-  
-  * Install Keras
-  ```sh
-  $ python -m pip install keras
-  ```
 
 <!-- How to use -->
 ## How to use
