@@ -1,7 +1,7 @@
 ## IVP PROJECT | SMART AGRO KIT
 *Group No-*"14"
 
-*Faculty Name-*"Dr. Shiv Ram Dubey"
+*Faculty Name- ### Dr. Shiv Ram Dubey
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -27,7 +27,7 @@
 
 ## About The Project
 
-** In modern era many of farmers not able to predict right information due to lack of skills,time This is the reason for many crops failure. Unfortunately the farmers award with huge losses and in some case it grow to be committing suicide.In order to make their task a bit easier we have worked on a project and  developed a reliable and easy to use system for use by farmers. So for detection of diseases on crops we have proposed a smart and efficient technique by using image processing and IoT techniques, farmers need to click pictures of their crops and upload that to our webpage then the system will analyse crops and alerts with disease names as well as how to prevent them. **
+In modern era many of farmers not able to predict right information due to lack of skills,time This is the reason for many crops failure. Unfortunately the farmers award with huge losses and in some case it grow to be committing suicide.In order to make their task a bit easier we have worked on a project and  developed a reliable and easy to use system for use by farmers. So for detection of diseases on crops we have proposed a smart and efficient technique by using image processing and IoT techniques, farmers need to click pictures of their crops and upload that to our webpage then the system will analyse crops and alerts with disease names as well as how to prevent them.
 
 <table>
   <tr>
