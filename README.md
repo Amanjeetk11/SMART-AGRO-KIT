@@ -33,12 +33,12 @@ In modern era many of farmers not able to predict right information due to lack 
 ## Team Members
 |   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
-|    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m |
-|    IIT2019222  |   Rauank Singh Rathore  | [Error404r ](https://github.com/Error404r |
-|    IIB2019006  |   Amanjeet Kumar |  [Amanjeetk11 ](https://github.com/Amanjeetk11|
-|    IIT2019202  |   JYOTI VERMA | [Jyo123-verma ](https://github.com/Jyo123-verma|
-|    IIT2019236  |  Noonsavath Sravana Samyukta | [samyukta9500 ](https://github.com/samyukta9500 | 
-|    IIT2019200  |   Raj chandra  | [RAJCHANDRA ](https://github.com/RAJCHANDRA |
+|    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m] |
+|    IIT2019222  |   Rauank Singh Rathore  | [Error404r ](https://github.com/Error404r] |
+|    IIB2019006  |   Amanjeet Kumar |  [Amanjeetk11 ](https://github.com/Amanjeetk11] |
+|    IIT2019202  |   JYOTI VERMA | [Jyo123-verma ](https://github.com/Jyo123-verma] |
+|    IIT2019236  |  Noonsavath Sravana Samyukta | [samyukta9500 ](https://github.com/samyukta9500] | 
+|    IIT2019200  |   Raj chandra  | [RAJCHANDRA ](https://github.com/RAJCHANDRA] |
 
 
 ## Built With
@@ -143,17 +143,17 @@ Visit http://127.0.0.1:5000 to see your app in action
 
 Now system will auto show status of crops ,if disease detected it will shoe name and their cure.
 
- >>> #### When no disease detected on plant
+ > #### When no disease detected on plant
   
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png"  height="460" /> <br>
   
-  >>> #### When no disease detected on plant leafs
+  > #### When no disease detected on plant leafs
 <br>  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png"  height="460" /> <br>
   
-  >>> #### When disease detected on plant
+  > #### When disease detected on plant
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_palnt.png"  height="460" /> <br>
   
-  >>> #### When disease detected on plant leafs
+  > #### When disease detected on plant leafs
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png"  height="460" /> <br>
    
 
