@@ -27,6 +27,7 @@ Group No- 14
         <li><a href="#when-no-disease-detected-on-plant-leafs">When no disease detected on plant leafs</a></li>
         <li><a href="#when-disease-detected-on-plant">When disease detected on plant</a></li>
         <li><a href="#when-disease-detected-on-plant-leafs">When disease detected on plant leafs</a></li>
+        <li><a href="#Disease-cure-recommendations">Disease cure recommendations</a></li>
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -168,6 +169,10 @@ Now system will auto show status of crops ,if disease detected it will shoe name
   
  > ### When disease detected on plant leafs
  <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png"  height="370" /> <br>
+ 
+ > ###    Disease cure recommendations
+ <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_rec.png"  height="370" /> <br>
+   
    
 
 
