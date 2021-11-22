@@ -172,9 +172,18 @@ Now system will auto show status of crops ,if disease detected it will shoe name
  
  > ###    Disease cure recommendations
  <br> <img src="ss/dis_rec.png"  height="370" /> <br>
+ 
+<!-- Acknowledgements -->
+## Team Members  
    
-   
-
+| Name | EnrollMent Number | Profile |
+| :-------------: | :-------------: | ------------- |
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
 
 <!-- Acknowledgements -->
 ## Acknowledgements
