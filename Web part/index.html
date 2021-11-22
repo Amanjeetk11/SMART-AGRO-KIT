@@ -1,222 +1,189 @@
-
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-     <!-- Required meta tags -->
-     <meta charset="utf-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
- 
-     <!-- Bootstrap CSS -->
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-     <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap" rel="stylesheet">
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IVP PROJECT |GROUP NO 14</title>
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="login.css" />
-  <script src="https://unpkg.com/streamr-client@4.1.6/dist/streamr-client.web.min.js"></script>
-  <style>
-    * {
-        margin: 0px;
-        padding: 0px;
-        box-sizing: border-box;
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap" rel="stylesheet">
+
+    <title> PLANT DISEASE PREDICTION</title>
+
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
 
 
-    }
+        }
 
-    .carousel-inner img {
-        height: 70vh;
-    }
+        .carousel-inner img {
+            height: 70vh;
+        }
 
-    form {
-        display: flex;
-        height: 85vh;
-        justify-content: center;
-        align-items: center;
-        margin-top: 50px;
-        width: 60%;
-        text-align: center;
-        margin: auto;
-    }
+        form {
+            display: flex;
+            height: 85vh;
+            justify-content: center;
+            align-items: center;
+            margin-top: 50px;
+            width: 60%;
+            text-align: center;
+            margin: auto;
+        }
 
 
-    .details h2 {
+        .details h2 {
+            
+            position: relative;
+            top: 100px;
+            margin: auto;
+            color: rgb(18, 231, 231);
+            font-size: 3rem;
+        }
+
+        label:hover {
+            transform: scale(1.03);
+        }
+
+        .details h2 {
+            /* margin-bottom: 300px; */
+            position: relative;
+            top: 100px;
+            margin: auto;
+            color: rgb(18, 231, 231);
+            font-size: 3rem;
+
+        }
+
+        .gallery-h1 h1 {
+
+            background-color: rgb(44, 43, 43);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+
+        }
+
+
+
+
+
+        .details h1 {
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            background-color: rgb(45, 47, 49);
+        }
+
+
+        .upload {
+
+            font-size: 20px;
+            background-color: rgb(255, 252, 252);
+            border-radius: 20px;
+            outline: none;
+            width: 315px;
+            color: rgb(0, 0, 0);
+            border: 3px solid rgb(45, 47, 49);
+
+
+
+        }
+
+        ::-webkit-file-upload-button {
+            color: white;
+            padding: 20px;
+            border: 2px solid rgb(129, 129, 129);
+            background-color: rgb(129, 129, 129);
+            border-radius: 15px;
+
+        }
+
+        ::-webkit-file-upload-button:hover {
+            border-radius: 20px;
+            border: 2px solid rgb(177, 174, 174);
+
+
+        }
+
+
+
+        input[type="submit"] {
+            position: absolute;
+            margin-top: 150px;
+            padding: 15px 35px;
+            background-color: white;
+            border-radius: 15px;
+            color: black;
+            font-size: 1.5rem;
+            border: 4px solid rgb(31, 185, 190);
+        }
+
         
-        position: relative;
-        top: 100px;
-        margin: auto;
-        color: rgb(18, 231, 231);
-        font-size: 3rem;
-    }
 
-    label:hover {
-        transform: scale(1.03);
-    }
+        .img-thumbnail {
+            height: 300px;
+        }
 
-    .details h2 {
-        /* margin-bottom: 300px; */
-        position: relative;
-        top: 100px;
-        margin: auto;
-        color: rgb(18, 231, 231);
-        font-size: 3rem;
+        .Content-h5 {
 
-    }
-
-    .gallery-h1 h1 {
-
-        background-color: rgb(44, 43, 43);
-        color: white;
-        padding: 20px;
-        border-radius: 15px;
-
-    }
+            padding: 15px;
+            background-color: rgb(153, 156, 150);
+            color: white;
+            border-radius: 15px;
+            margin-bottom: 25px;
+        }
 
 
+        table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
+th {
+  background-color: #04AA6D;
+  color: white;
+  text-align: left;
+  padding: 8px;
+}
 
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-    .details h1 {
-        color: white;
-        padding: 20px;
-        border-radius: 15px;
-        background-color: rgb(45, 47, 49);
-    }
-
-
-    .upload {
-
-        font-size: 20px;
-        background-color: rgb(49, 228, 159);
-        border-radius: 20px;
-        outline: none;
-        width: 315px;
-        color: rgb(0, 0, 0);
-        border: 3px solid rgb(45, 47, 49);
-
-
-
-    }
-
-    ::-webkit-file-upload-button {
-        color: white;
-        padding: 20px;
-        border: 2px solid rgb(129, 129, 129);
-        background-color: rgb(129, 129, 129);
-        border-radius: 15px;
-
-    }
-
-    ::-webkit-file-upload-button:hover {
-        border-radius: 20px;
-        border: 2px solid rgb(177, 174, 174);
-
-
-    }
-
-
-
-    input[type="submit"] {
-        position: absolute;
-        margin-top: 150px;
-        padding: 15px 35px;
-        background-color: white;
-        border-radius: 15px;
-        color: black;
-        font-size: 1.5rem;
-        border: 4px solid rgb(31, 185, 190);
-    }
-
-    .carousel-caption {
-        background: rgba(24, 25, 26, 0.5);
-        border-radius: 10px;
-    }
-
-
-
-    .carousel-caption h3 {
-
-
-        font-family: 'Rowdies', cursive;
-        color: yellow;
-        text-transform: uppercase;
-        margin-bottom: 10px;
-
-    }
-
-    .carousel-caption p {
-        padding: 7px;
-
-
-    }
-
-    .img-thumbnail {
-        height: 300px;
-    }
-
-    .Content-h5 {
-
-        padding: 15px;
-        background-color: rgb(153, 156, 150);
-        color: white;
-        border-radius: 15px;
-        margin-bottom: 25px;
-    }
-
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
 
     @media only screen and (max-width: 325px) {
         body {
             font-size: x-small;
         }
     }
-</style>
-    
-  </head>
-  <body>
+    </style>
+
+
+</head>
+
+<body>
+
+
     <header>
-      <nav class="navbar">
-        <span class="navbar-toggle" id="js-navbar-toggle">
-          <i class="fa fa-bars"></i>
-        </span>
-        <div class="brand">IVP PROJECT || GROUP 14</div>
-        <ul class="main-nav" id="js-menu">
-          <li><a href="#">Home</a></li>
-        <li><a href="#about">Predict</a></li>
-         
-          <li><a href="#contactus">Contact Us</a></li>
         
-        </ul>
-      </nav>
+
+                   
+               
+              
     </header>
-
-    <div class="showcase" id="home">
-      <div class="container">
-        <div class="secHead">
-          <h1>SMART AGRO KIT</h1>
-          <h2>
-            <br > SMART AGRO KIT is  an Image processing based project which takes input as an image from user and inform user about the health of the crop in the image. <br />
-            <strong> <strong> # PRODUCE THE BEST  </strong> </strong>
-          </h2>
-        </div>
-        <a class="Showcase_button" target="_blank" rel="noopener noreferrer">
-          TRY NOW
-        </a>
-      </div>
-    </div>
-
-    
-
-    
-
-
 
 
 
@@ -224,20 +191,18 @@
 
     <section>
 
-      <div class="container-fluid details">
-          <h1 class="text-center mt-5 ">IVP PROJECT : SMART AGRO KIT</h1>
+        <div class="container-fluid details">
+            <h1 class="text-center mt-5 ">Smart Agro Kit: Group 14</h1>
 
-          <h2 class="text-center mt-4 mb-4" style="font-size: 2rem;">पेड कि तस्वीर डालिये</h2>
-          <form action="/predict" method="post" enctype="multipart/form-data" onsubmit="showloading()">
+            <h2 class="text-center mt-4 mb-4" style="font-size: 2rem;">पेड कि तस्वीर डालिये</h2>
+            <form action="/predict" method="post" enctype="multipart/form-data" onsubmit="showloading()">
 
-              <input type="file" name="image" class="upload">
-              <input type="submit" value="Predict">
+                <input type="file" name="image" class="upload">
+                <input type="submit" value="Predict">
 
-          </form>
-      </div>
-  </section>
-
-
+            </form>
+        </div>
+    </section>
 
 
 
@@ -246,82 +211,138 @@
 
 
 
+
+
+    <section style="margin-bottom: 100px;">
+
+        <div class="container gallery-h1">
+
+            <h1 class="text-center mt-4 mb-4">Photo Gallery</h1>
+
+
+
+            <hr class="mt-2 mb-5">
+
+            <div class="row text-center text-lg-left">
+
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery1.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery2.jpg" alt="">
+                    </a>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery3.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery4.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery5.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 col-12">
+                    <a href="#" class="d-block mb-4 h-100">
+                        <img class="img-fluid img-thumbnail" src="/static/images/Gallery6.jpg" alt="">
+                    </a>
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section>
+        <div class="container Content-h4">
   
+            <h5 style="font-size: 1.5rem;" class="text-center my-3 contents">
+                <u>GROUP MEMBERS</u> </h5>
+  
+        </div>
+     
+        <div class="container Content-h4">
+  
+            <!-- <h5 style="font-size: 1.5rem;" class="text-center my-3 contents">
+                <u>GROUP MEMBERS</u> </h5> -->
+  
+                <table>
+                  <tr>
+                    <th>Sr No.</th>
+                    <th>Name</th>
+                    <th>Enrollment Number</th>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>Mrityunjaya Tiwari</td>
+                    <td>IIT2019239</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Raunak Singh Rathore</td>
+                    <td>IIT2019222</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Amanjeet Kumar</td>
+                    <td>IIB2019006</td>
+                  </tr>
+                  <tr>
+                    <td>4</td>
+                    <td>Jyoti Verma</td>
+                    <td>IIT2019202</td>
+                  </tr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-      crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-      crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
-      crossorigin="anonymous"></script>
-
-
-
-
-
+                  <tr>
+                    <td>5</td>
+                    <td>Raj Chandra</td>
+                    <td>IIT2019200</td>
+                  </tr>
+                  <tr>
+                    <td>6</td>
+                    <td>N Samyukta</td>
+                    <td>IIT2019236</td>
+                  </tr>
+                  
+                </table>
+  <hr>
+        </div>
+    </section>
     
 
-    
-    </div>
+    <section>
+        <div class="container Content-h5">
 
-    <footer class="footer-distributed">
-      <div class="footer-left">
-        <h3><span>SMART AGRO KIT</span></h3>
+            <h5 style="font-size: 1.5rem;" class="text-center my-3 contents">
+                Developed By : Group 14</h5>
 
-        <p class="footer-links">
-          <a href="#home">Home</a>
-          |
-         
-          |
-          <a href="#contactus">Contact</a>
-        </p>
-      </div>
-
-      <div class="footer-center">
-        <div>
-          <i class="fa fa-map-marker"></i>
-          <p>
-            <span>IIIT Allahabad, India</span>
-          </p>
         </div>
-
-        <div>
-          <i class="fa fa-phone"></i>
-          <p>+91 880 8800 947</p>
-        </div>
-      </div>
-      <div class="footer-right">
-        <p class="footer-company-about">
-          <span>About the Project</span>
-          <b>SMART AGRO KIT is  an Image processing based project which takes input as an image from user and inform user about the health of the crop in the image.</b>
-        </p>
-      </div>
-    </footer>
-  </body>
-
-  <script>const popup = document.querySelector(".Showcase_button");
+    </section>
 
 
-    popup.addEventListener("click", function () {
-      alert(" This product is under development ");
-    });
-    </script>
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+
+
+
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
@@ -330,6 +351,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"></script>
-  
-  
+
+</body>
+
 </html>
