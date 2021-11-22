@@ -30,6 +30,7 @@ Group No- 14
       </ul>
     </li>
      <li><a href="#team-members">Team Members</a></li>
+     <li><a href="#Important-Project-Links">Important Project Links</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -176,14 +177,23 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 <!-- Acknowledgements -->
 ## Team Members  
    
-| Name | Enrollment Number | Profile |
+| Profile | Name | Enrollment Number | 
 | :-------------: | :-------------: | ------------- |
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='73' height='73'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/RAUNAK.jpeg' width='73' height='73'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='73' height='73'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='73' height='73'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='55' height='55'> | Mrityunjaya Tiwari| IIT2019239 
+| <img src='https://dbms.redixolabs.in/img/RAUNAK.jpeg' width='55' height='55'> | Raunak Singh Rathore| IIT2019239 
+| <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='55' height='55'>| Amanjeet Kumar| IIT2019239  
+| <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='55' height='55'> | Mussu Verma| IIT2019239 
+| <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='55' height='55'> | N Samyukta| IIT2019239 
+| <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='55' height='55'>| Raj Chandra | IIT2019239  
+
+<!-- Important Project Links -->
+## Important Project Links
+* [Website Frontend (only for demo) ](https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/)
+* [Google colab Link](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+* [Report Docs](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
+* [PPT Presentation](https://towardsdatascience.com/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
+
+
 
 <!-- Acknowledgements -->
 ## Acknowledgements
