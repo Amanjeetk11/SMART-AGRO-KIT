@@ -189,9 +189,9 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 <!-- Important Project Links -->
 ## Important Project Links
 * [Website Frontend (only for demo) ](https://amanjeetk11.github.io/ivp/Web%20part/index.html)
-* [Google colab Link](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+* [Google colab Link](https://colab.research.google.com/drive/1s0LwOQbv54WbKTxh9PvEtcFiVrercUxK?usp=sharing)
 * [Report Docs](https://docs.google.com/document/d/1KTymgQa6YGZmuw8pNrisI0JCPPe5htt6/edit#)
-* [PPT Presentation](https://towardsdatascience.com/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
+* [PPT Presentation](https://towardsdatascim/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
 
 
 
