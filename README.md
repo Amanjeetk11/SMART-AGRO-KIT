@@ -145,7 +145,7 @@ Visit http://127.0.0.1:5000 to see your app in action
 <!-- Usage -->
 ## How to use
 1.Go through webpage link http://127.0.0.1:5000 
-<br> <img src="https://nbss.co.in/img/33.gif"  height="370" />
+<br> <img src="ss/landing_page.png"  height="370" />
 
 2. Tap on choose file.
 3. Upload or click picture of crops.
@@ -159,19 +159,19 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 
  > ### When no disease detected on plant
   
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png"  height="370" /> <br>
+ <br> <img src="ss/healthy_plant.png"  height="370" /> <br>
   
  > ### When no disease detected on plant leafs
-<br>  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png"  height="370" /> <br>
+<br>  <img src="ss/healthy_plant_leaf.png"  height="370" /> <br>
   
  > ### When disease detected on plant
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_palnt.png"  height="370" /> <br>
+ <br> <img src="ss/dis_palnt.png"  height="370" /> <br>
   
  > ### When disease detected on plant leafs
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png"  height="370" /> <br>
+ <br> <img src="ss/dis_plant_leaf.png"  height="370" /> <br>
  
  > ###    Disease cure recommendations
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_rec.png"  height="370" /> <br>
+ <br> <img src="ss/dis_rec.png"  height="370" /> <br>
    
    
 
