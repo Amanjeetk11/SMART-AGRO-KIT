@@ -10,7 +10,6 @@ Group No- 14
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#team-members">Team Members</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -30,6 +29,7 @@ Group No- 14
         <li><a href="#Disease-cure-recommendations">Disease cure recommendations</a></li>
       </ul>
     </li>
+     <li><a href="#team-members">Team Members</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -40,7 +40,7 @@ Group No- 14
 In modern era many of farmers not able to predict right information due to lack of skills,time This is the reason for many crops failure. Unfortunately the farmers award with huge losses and in some case it grow to be committing suicide.In order to make their task a bit easier we have worked on a project and  developed a reliable and easy to use system for use by farmers. So for detection of diseases on crops we have proposed a smart and efficient technique by using image processing and IoT techniques, farmers need to click pictures of their crops and upload that to our webpage then the system will analyse crops and alerts with disease names as well as how to prevent them.
 
 
-## Team Members
+<!-- ## Team Members
 |   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
 |    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m) |
@@ -48,7 +48,7 @@ In modern era many of farmers not able to predict right information due to lack 
 |    IIB2019006  |   Amanjeet Kumar |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
 |    IIT2019202  |   JYOTI VERMA | [Jyo123-verma ](https://github.com/Jyo123-verma) |
 |    IIT2019236  |  Noonsavath Sravana Samyukta | [samyukta9500 ](https://github.com/samyukta9500) | 
-|    IIT2019200  |   Raj chandra  | [RAJCHANDRA ](https://github.com/RAJCHANDRA) |
+|    IIT2019200  |   Raj chandra  | [RAJCHANDRA ](https://github.com/RAJCHANDRA) | -->
 
 
 ## Built With
@@ -176,12 +176,12 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 <!-- Acknowledgements -->
 ## Team Members  
    
-| Name | EnrollMent Number | Profile |
+| Name | Enrollment Number | Profile |
 | :-------------: | :-------------: | ------------- |
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
-| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='73' height='73'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/RAUNAK.jpeg' width='73' height='73'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='73' height='73'> 
+| Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='73' height='73'> 
 | Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
 | Mrityunjaya Tiwari| IIT2019239 | <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='50' height='50'> 
 
