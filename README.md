@@ -145,7 +145,7 @@ Visit http://127.0.0.1:5000 to see your app in action
 <!-- Usage -->
 ## How to use
 1.Go through webpage link http://127.0.0.1:5000 
-<br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/landing_page.png"  height="370" />
+<br> <img src="ss/landing_page.png"  height="370" />
 
 2. Tap on choose file.
 3. Upload or click picture of crops.
