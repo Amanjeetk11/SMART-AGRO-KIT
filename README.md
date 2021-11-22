@@ -183,7 +183,7 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 | <img src='https://dbms.redixolabs.in/img/RAUNAK.jpeg' width='55' height='55'> | Raunak Singh Rathore| IIT2019222
 | <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='55' height='55'>| Amanjeet Kumar| IIB2019006  
 | <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='55' height='55'> | Mussu Verma| IIT2019202
-| <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='55' height='55'> | N Samyukta| IIT2019236 
+| <img src='https://scontent.fdel25-1.fna.fbcdn.net/v/t1.6435-9/80791218_160732211948308_2247008756191723520_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=ByuUq-ZuQU4AX_cvGqP&_nc_oc=AQllDoRT49nK6mqZHB2yVdezF36vwdvu9i_jCMqK_u6HS12zxgt5pLrH2SeQ5VLx07s&_nc_ht=scontent.fdel25-1.fna&oh=5da05a1c68565ccb6de9dfcf1aee906c&oe=61C22BEB' width='55' height='55'> | N Samyukta| IIT2019236 
 | <img src='https://scontent.fdel25-1.fna.fbcdn.net/v/t1.6435-9/80791218_160732211948308_2247008756191723520_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=ByuUq-ZuQU4AX_cvGqP&_nc_oc=AQllDoRT49nK6mqZHB2yVdezF36vwdvu9i_jCMqK_u6HS12zxgt5pLrH2SeQ5VLx07s&_nc_ht=scontent.fdel25-1.fna&oh=5da05a1c68565ccb6de9dfcf1aee906c&oe=61C22BEB' width='55' height='55'>| Raj Chandra | IIT2019200  
 
 <!-- Important Project Links -->
